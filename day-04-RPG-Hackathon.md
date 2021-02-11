@@ -51,7 +51,7 @@
 
 
 ## Ninjas In Space
-<img src="https://vectr.com/adion81/gDcNa2jhl.svg?width=680.46&height=223.55&select=gDcNa2jhlpage0" alt="Ninjas in Space" width="300px" >
+<img src="https://github.com/adion81/c-sharp-lectures/blob/master/assets/NinjasInSpace.png" alt="Ninjas in Space" width="300px" >
 
 
 <details>
@@ -69,7 +69,7 @@
 
 
 ## Ninja: Remote Island
-<img src="https://vectr.com/adion81/aheA3tiun.svg?width=680.46&height=223.55&select=aheA3tiunpage0" alt="Ninjas vs Monkeys" width="300px">
+<img src="https://github.com/adion81/c-sharp-lectures/blob/master/assets/NinjasVsMonkey.png" alt="Ninjas vs Monkeys" width="300px">
 
 <details>
     <summary>You are shipped wrecked on a remote island and cut off from the world.  The island is filled with mysteries and dangers(maybe monkies?) that you must encounter in order to send a signal to the outside world.  Will you be able to defeat the island or will you be destined to live out your days there?</summary>
@@ -85,7 +85,7 @@
 </details>
 
 ## Ninja Corp.
-<img src="https://vectr.com/adion81/ffuiRnLWA.svg?width=680.46&height=223.55&select=ffuiRnLWApage0" alt="Ninjas vs Monkeys" width="300px">
+<img src="https://github.com/adion81/c-sharp-lectures/blob/master/assets/Ninja%20Corp..png" alt="Ninjas vs Monkeys" width="300px">
 
 <details>
     <summary>You finally made it out of Coding Dojo, and landed your dream job at Ninja Corp!!!  We'll maybe it isn't the dreamiest job.  Okay, let's be honest, this dream is more of a nightmare.  You and your team of ninja developers must battle corporate reports, micro-managing bosses, and cases of the Mundays.  You must finish all your duties or you be fired!</summary>
